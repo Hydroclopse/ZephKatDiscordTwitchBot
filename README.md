@@ -7,3 +7,5 @@ Maybe, the core functionality will be split into two projects if the premises ar
 Discord API Documentation: https://discordapp.com/developers/docs/intro
 
 Twitch API Documentation: https://dev.twitch.tv/docs
+
+OpenGL Redbook: http://www.glprogramming.com/red/index.html
