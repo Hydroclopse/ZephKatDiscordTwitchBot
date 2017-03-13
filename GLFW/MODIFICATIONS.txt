@@ -1,0 +1,3 @@
+This is here due to the licensce constraints specified in COPYING.  This project has removed most associated folders and documents
+associated with the GLFW github source section.  It has kept the include headers and liscense information, and added this modification
+notification text.

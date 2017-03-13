@@ -9,3 +9,5 @@ Discord API Documentation: https://discordapp.com/developers/docs/intro
 Twitch API Documentation: https://dev.twitch.tv/docs
 
 OpenGL Redbook: http://www.glprogramming.com/red/index.html
+
+GLFW Documentation: http://www.glfw.org/docs/latest/quick.html
