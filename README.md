@@ -10,4 +10,4 @@ Twitch API Documentation: https://dev.twitch.tv/docs
 
 OpenGL Redbook: http://www.glprogramming.com/red/index.html
 
-SDL Wiki: http://wiki.libsdl.org/FrontPage
+GLFW Documentation: http://www.glfw.org/docs/latest/quick.html
